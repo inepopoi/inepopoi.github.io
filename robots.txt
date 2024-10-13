@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inepopoi.github.io/sitemap.html.gz
+Sitemap: https://inepopoi.github.io/app/sitemap.html.gz
+Sitemap: https://inepopoi.github.io/assets/sitemap.html.gz
+Sitemap: https://inepopoi.github.io/css/sitemap.html.gz
+Sitemap: https://inepopoi.github.io/includes/sitemap.html.gz
+Sitemap: https://inepopoi.github.io/item/sitemap.html.gz
+Sitemap: https://inepopoi.github.io/src/sitemap.html.gz
